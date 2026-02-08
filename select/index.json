@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "エゴロック (long ver.)（feat. 鏡音レン）",
+  "base_artist": "すりぃ",
+  "createdAt": "2026-02-08T15:02:11.552201Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エゴロック",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/01_エゴロック_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エゴロック",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/02_エゴロック_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エゴロック - long ver.",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/03_エゴロック_-_long_ver._すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エゴロック (long ver.)",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/04_エゴロック_(long_ver.)_すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エゴロック",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/05_エゴロック_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エゴロック",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/06_エゴロック_すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "エゴロック",
+      "artist": "Wagakki Band",
+      "has_synced": false,
+      "path": "select/07_エゴロック_Wagakki_Band.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "エゴロック",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&鳳えむ&草薙寧々&神代類&鏡音レン",
+      "has_synced": true,
+      "path": "select/08_エゴロック_ワンダーランズ×ショウタイム_feat._天馬司&鳳えむ&草薙寧々&神代類&鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "エゴロック",
+      "artist": "ワンダーランズ x ショウタイム",
+      "has_synced": true,
+      "path": "select/09_エゴロック_ワンダーランズ_x_ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "エゴロック - long ver. (Paused)",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/10_エゴロック_-_long_ver._(Paused)_すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "エゴロック (Explicit)",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/11_エゴロック_(Explicit)_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "エゴロック (feat. 天馬司&鳳えむ&草薙寧々&神代類&鏡音レン)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/12_エゴロック_(feat._天馬司&鳳えむ&草薙寧々&神代類&鏡音レン)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "エゴロック [Explicit]",
+      "artist": "和楽器バンド",
+      "has_synced": false,
+      "path": "select/13_エゴロック_[Explicit]_和楽器バンド.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "エゴロック [Explicit] - Instrumental",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/14_エゴロック_[Explicit]_-_Instrumental_和楽器バンド.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エゴロック",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/pl_01_エゴロック_すりぃ.txt"
+    }
+  ]
+}
